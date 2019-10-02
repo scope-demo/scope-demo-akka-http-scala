@@ -1,0 +1,1 @@
+./sbtw clean test
