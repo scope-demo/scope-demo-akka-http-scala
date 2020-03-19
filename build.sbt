@@ -33,4 +33,4 @@ lazy val root = (project in file("."))
     )
   )
 
-javaAgents += "com.undefinedlabs.scope" % "scope-agent" % "0.5.2" % "test"
+javaAgents += "com.undefinedlabs.scope" % "scope-agent" % "0.6.0-beta.1" % "test"
